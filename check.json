@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Перевірка",
+    "model": "gemini-3.6-flash",
+    "temperature": 0.0,
+    "system": null,
+    "prompt": "Скажи одним реченням, яка ти модель.",
+    "answer": "Я — Gemini 3.6 Flash, велика мовна модель, розроблена компанією Google.",
+    "words": 11,
+    "time": "2026-11-16T15:49:33"
+  }
+]
